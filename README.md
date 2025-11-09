@@ -13,6 +13,8 @@
     "image_transformation",
     "data_augmentation"
   ],
+
+  
   "techniques": {
     "image_io_and_display": "Reading and writing images using OpenCV or PIL, displaying with matplotlib, resizing, cropping, rotating, and color channel manipulation.",
     "color_space_conversion": "RGB to Grayscale, HSV, and LAB conversions, normalization, and histogram equalization for color correction and enhancement.",
@@ -25,6 +27,8 @@
     "image_transformation": "Performing affine and perspective transforms, geometric transformations, Fourier and DCT for frequency domain analysis.",
     "data_augmentation": "Creating synthetic data variations via flipping, rotation, scaling, cropping, color jittering, and using libraries like Albumentations or torchvision."
   },
+
+  
   "dependencies": [
     "opencv-python",
     "numpy",
@@ -33,6 +37,8 @@
     "pillow",
     "albumentations"
   ],
+
+  
   "references": [
     "OpenCV Documentation - https://docs.opencv.org/",
     "Scikit-Image Docs - https://scikit-image.org/docs/stable/",
