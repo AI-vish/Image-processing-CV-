@@ -1,4 +1,4 @@
-# 🧠 Image Processing Techniques — Essentials for ML Engineers
+# 🧠 Image Processing Techniques: Essentials for ML Engineers
 
 **Practice codes while I was exploring Digital Image Processing in my 3rd year of university.**  
 This repository includes essential image processing and computer vision techniques that are crucial for most ML tasks.
